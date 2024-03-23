@@ -4,3 +4,7 @@ To install the module under Windows run
 
 Видео-инструкция
 https://www.youtube.com/watch?v=uzueLLhLCyU
+
+--
+
+pip install .
