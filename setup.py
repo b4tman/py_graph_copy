@@ -4,7 +4,7 @@ setup(
     name='graph',
     version='1.5.2',
     py_modules=['graph'],
-    requires = ["tkinter", "pillow>=10.2.0"],
+    requires = ["tkinter", "pillow"],
     description = "Graph - tkinter-based framework for simple Python graphics",
     author = "Konstantin Polyakov",
     author_email = "kpolyakov@mail.ru",
