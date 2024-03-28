@@ -8,3 +8,5 @@ https://www.youtube.com/watch?v=uzueLLhLCyU
 --
 
 pip install .
+or 
+pip install git+https://github.com/b4tman/py_graph_copy
